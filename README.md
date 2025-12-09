@@ -39,6 +39,7 @@ flowchart LR
 
 📂 Project Structure
 
+```test
 ai-testcase-generator/
 ├── src/
 │   ├── __init__.py
@@ -55,6 +56,7 @@ ai-testcase-generator/
 └── .github/
     └── workflows/
         └── ci.yml       # (optional, future use)
+```
 
 🛠️ Tech Stack
 
